@@ -10,7 +10,7 @@ Official support repository, user documentation, and issue tracker for the **Pow
 
 ## 📌 Quick Links
 
-* 🌐 **Main Audio Calculator Web App:** [electronicszone.pro](https://electronicszone.pro/calculators/power-amplifier)
+* 🌐 **Main Audio Calculator Web App:** [sound system amp calc](https://www.soundsystemcalc.com/amplifier-calculator/)
 * 🛒 **Install Extension:** [Chrome Web Store Listing](https://chromewebstore.google.com/detail/power-amplifier-calculato/dcckpfcpjjpmcoojclkmhckjifgpllfo)
 * 💬 **Report Bugs / Features:** [GitHub Issues Tracker](../../issues)
 
@@ -56,7 +56,7 @@ Instead of relying only on amplifier wattage ratings or guesswork, the tool help
 
 * **🔧 Practical System Planning:** Use the results as a starting point when comparing amplifiers before purchasing, installing, or upgrading an audio system.
 
-* **🌐 Quick Access Audio Tools:** Direct integration with interactive audio tools and additional sound calculation utilities at [electronicszone.pro](https://electronicszone.pro/calculators/power-amplifier).
+* **🌐 Quick Access Audio Tools:** Direct integration with interactive audio tools and additional sound calculation utilities at [soundsystem amp calc](https://www.soundsystemcalc.com/amplifier-calculator/).
 
 * **🔒 Lightweight & Privacy-Focused:** Designed to provide quick calculations without unnecessary background activity or tracking.
 
